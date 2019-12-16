@@ -4,7 +4,7 @@ TO reproduce the demo
     Go to https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html#download-samples and set up the Prerequisites envirnment
 
 ## 2. Download the code
-    git clone
+    git clone https://github.com/BrendanLL/ImExportChain.git
 
 ## 3. Start the network
     cd ImExportChain/basic-network
